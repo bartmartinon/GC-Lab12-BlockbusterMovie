@@ -1,0 +1,13 @@
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.exe
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.deps.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.dev.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csprojAssemblyReference.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfo.cs
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.genruntimeconfig.cache
